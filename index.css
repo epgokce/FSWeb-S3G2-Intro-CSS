@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    font-family: "Roboto Mono", monospace;
+  }
+  
+  header {
+    padding-top: 1rem;
+  }
+  
+  h1 {
+    font-family: "Chelsea Market", cursive;
+  }
+  
+  .container {
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+  
+  .menu {
+    text-align: center;
+    max-width: 1160px;
+    margin: 0 auto;
+  }
+  
+  .menu-item {
+    display: inline-block;
+    background-color: gray;
+    padding: 15px 30px;
+    min-height: 50px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .vertical-center {
+    padding: 25px 2rem 0;
+  }
+  
+  .orange {
+    background-color: #ff764e;
+  }
+  
+  .blue {
+    background-color: #5ed3eb;
+  }
+  
+  .yellow {
+    background-color: #ffcd69;
+  }
+  
+  .f-left {
+    float: left;
+  }
+  
+  .f-right {
+    float: right;
+  }
+  
+  footer {
+    background-color: #f9e7dc;
+    padding: 0 0 2rem 0;
+  }
+  
+  footer .menu {
+    padding: 1rem;
+  }
+  
+  .footer-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+  }
+  
+  .info {
+    margin: 2rem auto 4rem;
+  }
+  
+  .info-box {
+    width: 300px;
+    text-align: center;
+    margin: 1rem auto;
+  }
+  
+  .info-box img {
+    width: 120px;
+  }
+  
+  .intro {
+    margin-top: 4rem;
+  }
+  
+  .intro-img {
+    width: 200px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: left;
+    float: left;
+  }
+  
+  .intro-text {
+    text-align: center;
+    min-height: 200px;
+  }
+  
+  .main {
+    margin-top: 2rem;
+    background-color: #ddb9a3;
+    text-align: center;
+  }
+  
